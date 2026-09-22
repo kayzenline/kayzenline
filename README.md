@@ -17,10 +17,6 @@ Project pages distinguish my contributions from team work and explain scope and 
 - **Backend and testing:** Node.js, Express, REST APIs, SQLite, Jest and Git
 - **Currently studying:** Java and object-oriented design (COMP2511); computer networks and applications (COMP3331)
 
-## Beyond code
-
-- Peer Mentor at UNSW College: supported approximately 30 international students through two weeks of orientation activities.
-- UNSW CompClub volunteer: helped high-school students with introductory C/Python exercises, debugging, control flow and functions.
 
 ## Internship availability
 
