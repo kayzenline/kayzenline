@@ -6,14 +6,14 @@ Computer Science undergraduate at **UNSW Sydney**, graduating in **December 2027
 
 | Project | What I worked on | Technologies |
 | --- | --- | --- |
-| [Project-Bounty](https://github.com/kayzenline/Project-Bounty) | Team coursework: four mission REST operations, session and ownership checks, HTTP tests, TypeScript migration and JSON persistence | TypeScript · Node.js · Express · Jest |
-| [Sharpie](https://github.com/kayzenline/sharpie-portfolio) | Individual coursework: translating a subset of Shell into Python, including variable expansion, control flow and external command handling | Python · Regular expressions · Shell |
+| [Project-Bounty](https://github.com/kayzenline/Project-Bounty) | Team work: four mission REST operations, session and ownership checks, HTTP tests, TypeScript migration and JSON persistence | TypeScript · Node.js · Express · Jest |
+| [Sharpie](https://github.com/kayzenline/sharpie-portfolio) | Individual work: translating a subset of Shell into Python, including variable expansion, control flow and external command handling | Python · Regular expressions · Shell |
 
 Project pages distinguish my contributions from team work and explain scope and limitations. Sharpie's public page is a portfolio overview; the assignment implementation remains private.
 
 ## Technical experience
 
-- **Languages:** Python, TypeScript/JavaScript, C and Shell
+- **Languages:** Java, Python, TypeScript/JavaScript, C and Shell
 - **Backend and testing:** Node.js, Express, REST APIs, SQLite, Jest and Git
 - **Currently studying:** Java and object-oriented design (COMP2511); computer networks and applications (COMP3331)
 
