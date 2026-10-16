@@ -1,27 +1,26 @@
 # Jiawen (Eddie) Lin
 
-Computer Science undergraduate at **UNSW Sydney**, graduating in **December 2027**. I am interested in backend development, general software engineering and test automation.
+Computer Science undergraduate at UNSW Sydney, focused on backend and AI agent application development.
+Seeking full-time internships, **Dec 2026 – May 2027**.
 
-## Selected projects
+## What I'm building
 
-| Project | What I worked on | Technologies |
-| --- | --- | --- |
-| [Project-Bounty](https://github.com/kayzenline/Project-Bounty) | Team work: four mission REST operations, session and ownership checks, HTTP tests, TypeScript migration and JSON persistence | TypeScript · Node.js · Express · Jest |
-| [Sharpie](https://github.com/kayzenline/sharpie-portfolio) | Individual work: translating a subset of Shell into Python, including variable expansion, control flow and external command handling | Python · Regular expressions · Shell |
+- **[ai-news-agent](https://github.com/kayzenline/ai-news-agent)**: Daily personalised news briefing agent with a hand-written tool-calling loop (no agent framework), evidence-cited drafts with server-side validation, and 189 pytest tests. *Python, FastAPI, SQLite*
+- **[x-report-reminder](https://github.com/kayzenline/x-report-reminder)**: Async pipeline that turns tracked X posts and linked pages into structured LLM summaries in Obsidian, with idempotent runs and prefix-cache-friendly prompts. *Python, asyncio, SQLite*
+- **[ai-copilot-extension](https://github.com/kayzenline/ai-copilot-extension)**: Chrome MV3 browser assistant with a provider factory over Gemini, OpenAI-compatible APIs and on-device Gemini Nano; CI with 33 Vitest tests. *TypeScript, Vitest*
+- **[Project-Bounty](https://github.com/kayzenline/Project-Bounty)** (team): REST backend; I built 4 endpoints with session validation, ownership checks and Jest HTTP tests, and migrated auth modules to TypeScript. *TypeScript, Express, Jest*
+- **[slides-to-obsidian](https://github.com/kayzenline/slides-to-obsidian)**: Open-source Claude Code skill that turns lecture decks (PDF/PPTX/HTML) into bilingual Obsidian notes, using a two-pass design. *Python, evals*
 
-Project pages distinguish my contributions from team work and explain scope and limitations. Sharpie's public page is a portfolio overview; the assignment implementation remains private.
+## Open source
 
-## Technical experience
+- **MLflow**: [#26485](https://github.com/mlflow/mlflow/pull/26485)
+- **DSPy**: [#10575](https://github.com/stanfordnlp/dspy/pull/10575) 
+- **Haystack**: [#13170](https://github.com/deepset-ai/haystack/pull/13170)
 
-- **Languages:** Java, Python, TypeScript/JavaScript, C and Shell
-- **Backend and testing:** Node.js, Express, REST APIs, SQLite, Jest and Git
-- **Currently studying:** Java and object-oriented design (COMP2511); computer networks and applications (COMP3331)
+## Tech stack
 
+Python · FastAPI · Pydantic · SQL/SQLite · TypeScript · Node.js · Express · C/C++ · LLM tool calling & multi-provider APIs · Git · GitHub Actions · Linux
 
-## Internship availability
+## Contact
 
-Available for a full-time internship from **early December 2026 through June 2027**. Interested in opportunities in mainland China, Hong Kong, Sydney and Melbourne, subject to role requirements and local work authorisation.
-
----
-
-**中文简介：** UNSW计算机科学本科在读，关注后端开发、通用软件开发与测试开发。上方项目分别展示团队项目中的个人贡献，以及Python源码转译器的技术实践；Java与计算机网络目前为学习内容。
+[notedision@gmail.com](mailto:notedision@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jiawen-lin-60327b378)
