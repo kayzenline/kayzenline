@@ -5,6 +5,7 @@ Seeking full-time internships, **Dec 2026 – May 2027**.
 
 ## What I'm building
 
+- **[AgentOps](https://github.com/kayzenline/AI-Autonomous-Incident-Diagnosis-Platform)**: Read-only autonomous incident diagnosis agent: a bounded LangGraph loop (at most 8 tool calls, 60s timeout) investigates metrics, logs and deploys, and every hypothesis must cite verified evidence from an evidence ledger; results stream over SSE. *Python, FastAPI, LangGraph, PostgreSQL*
 - **[ai-news-agent](https://github.com/kayzenline/ai-news-agent)**: Daily personalised news briefing agent with a hand-written tool-calling loop (no agent framework), evidence-cited drafts with server-side validation, and 189 pytest tests. *Python, FastAPI, SQLite*
 - **[x-report-reminder](https://github.com/kayzenline/x-report-reminder)**: Async pipeline that turns tracked X posts and linked pages into structured LLM summaries in Obsidian, with idempotent runs and prefix-cache-friendly prompts. *Python, asyncio, SQLite*
 - **[ai-copilot-extension](https://github.com/kayzenline/ai-copilot-extension)**: Chrome MV3 browser assistant with a provider factory over Gemini, OpenAI-compatible APIs and on-device Gemini Nano; CI with 33 Vitest tests. *TypeScript, Vitest*
