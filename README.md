@@ -15,14 +15,10 @@ Seeking full-time internships, **Dec 2026 – May 2027**.
 
 ## Open source
 
-Merged:
-
 - **MLflow**: [#26485](https://github.com/mlflow/mlflow/pull/26485)
 - **DSPy**: [#10575](https://github.com/stanfordnlp/dspy/pull/10575)
 - **cua**: [#5125](https://github.com/trycua/cua/pull/5125) (co-author)
 - **magents**: [#49](https://github.com/abnegate/magents/pull/49)
-
-In review: **Haystack** [#13170](https://github.com/deepset-ai/haystack/pull/13170) · **llm** [#1793](https://github.com/simonw/llm/pull/1793)
 
 ## Tech stack
 
