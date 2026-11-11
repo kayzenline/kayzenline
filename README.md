@@ -1,7 +1,6 @@
 # Jiawen (Eddie) Lin
 
 Computer Science undergraduate at UNSW Sydney, focused on backend and AI agent application development.
-Seeking full-time internships, **Dec 2026 – May 2027**.
 
 ## What I'm building
 
